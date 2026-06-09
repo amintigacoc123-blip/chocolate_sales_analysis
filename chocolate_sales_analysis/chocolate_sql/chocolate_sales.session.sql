@@ -27,7 +27,5 @@ select
 from chocolate_sales_raw
 
 
-select *
-from chocolate_sales
 
 
